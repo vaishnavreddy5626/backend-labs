@@ -3,6 +3,7 @@
 **Student:** Vaishniv Reddy  
 **Year & Term:** Year II Term II  
 **Faculty:** SHIVA SAI TEJA  
+**Live URL (Lab 1):** [https://bdf-lab-01-0ukw.onrender.com/](https://bdf-lab-01-0ukw.onrender.com/)  
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/backend-labs)
 
@@ -12,7 +13,7 @@
 
 | Lab Folder | Title | Status | Link |
 | :--- | :--- | :--- | :--- |
-| `lab-01/` | Node.js and Express server | Completed | [lab-01 README](lab-01/README.md) |
+| `lab-01/` | Node.js and Express server | Completed | [lab-01 README](lab-01/README.md) • [Live Server](https://bdf-lab-01-0ukw.onrender.com/) |
 | `lab-02/` | Lab 2 | Planned | *Pending* |
 | `lab-03/` | Lab 3 | Planned | *Pending* |
 | `lab-04/` | Lab 4 | Planned | *Pending* |

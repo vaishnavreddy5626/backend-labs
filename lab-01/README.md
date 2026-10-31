@@ -9,8 +9,8 @@
 ---
 
 ## Live Link
-- **Deploy Button:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/backend-labs)
-- **Live Deployed URL:** [https://bdf-lab-01.onrender.com](https://bdf-lab-01.onrender.com) *(active upon 1-click deploy)*
+- **Public Live URL:** [https://bdf-lab-01-0ukw.onrender.com/](https://bdf-lab-01-0ukw.onrender.com/)
+- **Deploy Status:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/backend-labs)
 
 ---
 
