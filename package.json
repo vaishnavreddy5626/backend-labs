@@ -1,0 +1,11 @@
+{
+  "name": "backend-labs",
+  "version": "1.0.0",
+  "description": "Backend Development Fundamentals Labs Repository",
+  "scripts": {
+    "start": "cd lab-01 && node server.js",
+    "test": "cd lab-01 && npm test"
+  },
+  "author": "Vaishniv Reddy",
+  "license": "ISC"
+}

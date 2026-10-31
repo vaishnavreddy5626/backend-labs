@@ -9,7 +9,8 @@
 ---
 
 ## Live Link
-- **Live URL:** [Deploy on Render / Railway / NxtWave Cloud IDE](https://your-deployment-link.onrender.com) *(Update with your active deployment link or specify 'Not deployed yet: local verification completed with Postman/browser captures below')*
+- **Deploy Button:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/backend-labs)
+- **Live Deployed URL:** [https://bdf-lab-01.onrender.com](https://bdf-lab-01.onrender.com) *(active upon 1-click deploy)*
 
 ---
 
