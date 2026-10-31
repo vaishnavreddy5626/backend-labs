@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express server
 
 **Student Name:** Vaishniv Reddy  
-**Registration Number:** REPLACE_WITH_YOUR_REG_NO  
+**Registration Number:** 252U1R1171  
 **Section:** REPLACE_WITH_YOUR_SECTION  
 **Course:** Backend Development Fundamentals (Year II Term II)  
 **Faculty:** Joel Prashanth D  

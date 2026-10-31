@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   res.status(200).json({
     name: 'Vaishniv Reddy',
-    registrationNumber: 'REPLACE_WITH_YOUR_REG_NO',
+    registrationNumber: '252U1R1171',
     section: 'REPLACE_WITH_YOUR_SECTION',
     course: 'Backend Development Fundamentals',
     faculty: 'Joel Prashanth D'
