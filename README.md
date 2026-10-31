@@ -2,7 +2,7 @@
 
 **Student:** Vaishniv Reddy  
 **Year & Term:** Year II Term II  
-**Faculty:** Joel Prashanth D  
+**Faculty:** SHIVA SAI TEJA  
 
 ---
 
@@ -27,3 +27,4 @@
 - Do not commit `node_modules` or `.env` files.
 - Commit regularly with clear, descriptive commit messages.
 - Each lab contains its own dedicated `README.md`, screenshots, and test scripts.
+

@@ -2,9 +2,9 @@
 
 **Student Name:** Vaishniv Reddy  
 **Registration Number:** 252U1R1171  
-**Section:** REPLACE_WITH_YOUR_SECTION  
+**Section:** CSE-2D 214
 **Course:** Backend Development Fundamentals (Year II Term II)  
-**Faculty:** Joel Prashanth D  
+**Faculty:** SHIVA SAI TEJA 
 
 ---
 

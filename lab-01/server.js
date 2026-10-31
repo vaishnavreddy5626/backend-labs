@@ -22,9 +22,9 @@ app.get('/about', (req, res) => {
   res.status(200).json({
     name: 'Vaishniv Reddy',
     registrationNumber: '252U1R1171',
-    section: 'REPLACE_WITH_YOUR_SECTION',
+    section: 'CSE-2D 214',
     course: 'Backend Development Fundamentals',
-    faculty: 'Joel Prashanth D'
+    faculty: 'SHIVA SAI TEJA'
   });
 });
 
