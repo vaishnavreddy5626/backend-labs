@@ -1,0 +1,21 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "Lab 1: Node.js and Express server for Backend Development Fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:native": "node native_server.js",
+    "test": "node test_routes.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "backend-fundamentals"
+  ],
+  "author": "Vaishniv Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
