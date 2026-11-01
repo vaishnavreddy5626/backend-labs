@@ -14,7 +14,7 @@
 | Lab Folder | Title | Status | Link |
 | :--- | :--- | :--- | :--- |
 | `lab-01/` | Node.js and Express server | Completed | [lab-01 README](lab-01/README.md) • [Live Server](https://bdf-lab-01-0ukw.onrender.com/) |
-| `lab-02/` | Lab 2 | Planned | *Pending* |
+| `lab-02/` | SQLite database and CRUD routes | Completed | [lab-02 README](lab-02/README.md) |
 | `lab-03/` | Lab 3 | Planned | *Pending* |
 | `lab-04/` | Lab 4 | Planned | *Pending* |
 | `lab-05/` | Lab 5 | Planned | *Pending* |

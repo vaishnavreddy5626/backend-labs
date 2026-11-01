@@ -1,0 +1,29 @@
+{
+  "name": "lab-02",
+  "version": "1.0.0",
+  "description": "Lab 2: SQLite database and CRUD routes for Backend Development Fundamentals",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js",
+    "seed": "node init_db.js",
+    "test": "node test_crud.js"
+  },
+  "keywords": [
+    "sqlite",
+    "sqlite3",
+    "express",
+    "crud",
+    "backend-fundamentals"
+  ],
+  "author": "Vaishniv Reddy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
