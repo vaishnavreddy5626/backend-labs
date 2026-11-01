@@ -8,9 +8,9 @@
 
 ---
 
-## Live Link
-- **Public Live URL:** [https://bdf-lab-01-0ukw.onrender.com/](https://bdf-lab-01-0ukw.onrender.com/) *(or Render service URL for lab-02)*
-- **Repository Link:** [https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02](https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02)
+## Repository & Live Link
+- **Dedicated Repository:** [https://github.com/vaishnavreddy5626/lab-02](https://github.com/vaishnavreddy5626/lab-02)
+- **Course Monorepo:** [https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02](https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02)
 
 ---
 
@@ -136,3 +136,4 @@ Screenshots are stored in the `screenshots/` directory:
 3. **When is PUT used instead of POST?**
    - **POST** is used to create a new resource on the server when the resource ID is determined by the server. It is typically **not idempotent** (calling POST multiple times creates multiple duplicate resources).
    - **PUT** is used to update or replace an existing resource identified by a specific URI (e.g., `/books/:bookId/`). It is **idempotent** (sending the same PUT request multiple times produces the exact same server state).
+
