@@ -9,6 +9,7 @@
 ---
 
 ## Repository & Live Link
+- **Deploy to Render:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/lab-02)
 - **Dedicated Repository:** [https://github.com/vaishnavreddy5626/lab-02](https://github.com/vaishnavreddy5626/lab-02)
 - **Course Monorepo:** [https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02](https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-02)
 
