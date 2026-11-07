@@ -9,9 +9,10 @@
 ---
 
 ## Live Links & Repositories
-- **Course Monorepo:** [https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-03](https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-03)
+- **Public Live URL:** [https://lab-03-1-yqj7.onrender.com/](https://lab-03-1-yqj7.onrender.com/)
 - **Dedicated Repository:** [https://github.com/vaishnavreddy5626/lab-03](https://github.com/vaishnavreddy5626/lab-03)
-- **Deploy to Render:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/lab-03)
+- **Course Monorepo:** [https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-03](https://github.com/vaishnavreddy5626/backend-labs/tree/main/lab-03)
+- **Deploy Status:** [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/vaishnavreddy5626/lab-03)
 
 ---
 
@@ -167,3 +168,4 @@ All mutation endpoints enforce strict validation middleware and return structure
 3. **Which status code is used for bad input vs a missing record?**
    - **`400 Bad Request`**: Used for invalid, malformed, or missing client input (e.g., negative price, missing required title).
    - **`404 Not Found`**: Used when the input syntax is valid, but the requested resource URI or specific ID does not exist on the server (e.g., `/books/999` where book ID 999 is not in the database).
+
