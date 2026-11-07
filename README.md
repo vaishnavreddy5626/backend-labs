@@ -15,7 +15,7 @@
 | :--- | :--- | :--- | :--- |
 | `lab-01/` | Node.js and Express server | Completed | [lab-01 README](lab-01/README.md) • [Live Server](https://bdf-lab-01-0ukw.onrender.com/) |
 | `lab-02/` | SQLite database and CRUD routes | Completed | [lab-02 README](lab-02/README.md) • [Live Server](https://lab-02-golb.onrender.com/) |
-| `lab-03/` | Lab 3 | Planned | *Pending* |
+| `lab-03/` | REST API, query parameters, validation, debugging | Completed | [lab-03 README](lab-03/README.md) |
 | `lab-04/` | Lab 4 | Planned | *Pending* |
 | `lab-05/` | Lab 5 | Planned | *Pending* |
 | `lab-06/` | Lab 6 | Planned | *Pending* |
